@@ -1,0 +1,48 @@
+<meta>
+  <info type="misc" name="" author="CrosRoad95" description="" version="1.0.0" />
+  <script src="shader.lua" cache="false" type="client"/>
+  <script src="server.lua" type="server"/>
+  <file src="shader.fx"/>
+  <file src="img/ws_wangcar2.jpg"/>
+  <file src="img/ws_wangcar1.jpg"/>
+  <file src="img/txgrassbig1.png"/>
+  <file src="img/txgrassbig0.png"/>
+  <file src="img/treeleaves1.png"/>
+  <file src="img/tree19Mi.png"/>
+  <file src="img/image022.jpg"/>
+  <file src="img/face.png"/>
+  <file src="img/concrete_21.jpg"/>
+  <file src="img/bloodpool_64a.png"/>
+  <file src="img/2123213.jpg"/>
+  <file src="img/1.jpg"/>
+  <file src="img/2.jpg"/>
+  <file src="img/3.jpg"/>
+  <file src="img/4.jpg"/>
+  <file src="img/5.jpg"/>
+  <file src="img/13.jpg"/>
+  <file src="img/14.jpg"/>
+  <file src="img/15.jpg"/>
+  <file src="img/18.png"/>
+  <file src="img/19.png"/>
+  <file src="img/20.png"/>
+  <file src="img/21.png"/>
+  <file src="img/22.png"/>
+  <file src="img/23.png"/>
+  <file src="img/24.jpg"/>
+  <file src="img/28.jpg"/>
+  <file src="img/32.png"/>
+  <file src="img/33.png"/>
+  <file src="img/34.jpg"/>
+  <file src="img/35.png"/>
+  <file src="img/40.png"/>
+  <file src="img/42.png"/>
+  <file src="img/52.png"/>
+  <file src="img/53.png"/>
+  <file src="img/58.png"/>
+  <file src="img/64.png"/>
+  <file src="img/73.png"/>
+  <file src="img/78.png"/>
+  <file src="img/79.png"/>
+  <file src="img/81.png"/>
+  <file src="img/98.png"/>
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+	<info title="Freecam Command" author="Qais" version="1.0.0" type="script" description="A command for freecam." />
+	<script src="c.lua" type="client" />
+</meta>

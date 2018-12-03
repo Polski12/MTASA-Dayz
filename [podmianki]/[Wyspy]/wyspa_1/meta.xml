@@ -1,0 +1,8 @@
+<meta>
+	<info author="CrosRoad95" version="1.0" name="" type="script"></info>
+	<oop>true</oop>
+	<script src="client.lua" type="client" cache="false"></script>
+  <file src="podmianka.col"/>
+  <file src="podmianka.txd"/>
+  <file src="podmianka.dff"/>
+</meta>

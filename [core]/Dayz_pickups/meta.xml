@@ -1,0 +1,9 @@
+<meta>
+	<info author="CrosRoad95" version="1.0" name="" type="script"></info>
+	<oop>true</oop>
+	<script src="s.lua" type="server"></script>
+	<script src="c.lua" type="client" cache="false"></script>
+  <export function="updateLootForPlayer" type="server"/>
+  <export function="refreshItemLoot" type="server"/>
+  <export function="createItemPickup" type="server"/>
+</meta>

@@ -1,0 +1,22 @@
+<meta>
+	<info type="misc" name="http://www.mtasaplay.com.br " author="MLK+PIRA" description="" version="1.0" />
+
+	<file src="282.txd" />
+	<file src="282.dff" />
+	
+		<file src="283.txd" />
+	<file src="283.dff" />
+	
+		<file src="284.txd" />
+	<file src="284.dff" />
+	
+		<file src="285.txd" />
+	<file src="285.dff" />
+	
+
+
+	
+
+	<script type="client" src="replace.lua" />
+	<!-- generated with http://www.mtasaplay.com.br -->
+</meta>

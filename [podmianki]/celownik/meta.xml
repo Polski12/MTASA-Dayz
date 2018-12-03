@@ -1,0 +1,6 @@
+<meta>
+	<info author="CrosRoad95" version="1.0.0" type="script" name="" description="" />
+    <script src="cscripted.lua" type="client" />
+    <file src="shader.fx" type="client" />
+    <file src="images/aimer.png" type="client" />
+</meta>

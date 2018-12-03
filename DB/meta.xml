@@ -1,0 +1,13 @@
+<meta>
+    <!-- SERVERSIDE -->
+    <script src="database.lua" type="server" />
+    
+    <!-- EXPORTS -->
+    <export function="q" type="server" />
+    <export function="e" type="server" />
+    <export function="getSingleRow" type="server" />
+    <export function="getRows" type="server" />
+    <export function="now" type="server" />
+    
+    <info author="CrosRoad95,Butlipan/Rusek" name="itsyourworld_DB" description="Skrypt wykonany dla its your world 178.33.54.33:20156"></info>
+</meta>

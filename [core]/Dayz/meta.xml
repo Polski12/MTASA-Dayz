@@ -1,0 +1,45 @@
+<meta>
+    <info author="CrosRoad95" description="DayZ MTA Version" version="Alpha 0.1" type="gamemode" />
+    <script src="editor_server.lua" type="server" />
+    <script src="editor_client.lua" type="client" />
+    <script src="pickups.lua" type="server" />
+    <script src="spawn.lua" type="server" />
+    <script src="vehicle_spawns.lua" type="server" />
+    <script src="survivorSystem.lua" type="server" />
+    <script src="login.lua" type="server" />
+    <script src="tools/jq_server.lua" type="server" />
+    <script src="menu_client.lua" type="client" />
+    <script src="inventory.lua" type="client" />
+    <script src="survivorSystem_client.lua" type="client" />
+    <script src="tools/jq_client.lua" type="client" />
+    <script src="textlib.lua" type="client" />
+    <script src="shader/motion/motion_c.lua" type="client" />
+    <file src="shader/motion/motion.fx" />
+    <script src="shader/blackwhite/blackwhite_c.lua" type="client" />
+    <file src="shader/blackwhite/blackwhite.fx" />
+    <file src="tools/images/c_info/rand.png" />
+    <file src="tools/images/background.png" />
+    <file src="tools/images/imageHolder.png" />
+    <file src="tools/images/flags/died.png" />
+    <file src="tools/images/flags/join.png" />
+    <file src="tools/images/flags/quit.png" />
+    <file src="images/scrollmenu_1.png" />
+    <file src="images/background_scoreboard.png" />
+    <file src="images/white.png" />
+    <file src="images/window_bg.png" />
+    <file src="images/dead.jpg" />
+    <file src="images/dayzicons/bandit.png" />
+    <file src="images/dayzicons/blood.png" />
+    <file src="images/dayzicons/brokenbone.png" />
+    <file src="images/dayzicons/eye.png" />
+    <file src="images/dayzicons/food.png" />
+    <file src="images/dayzicons/sound.png" />
+    <file src="images/dayzicons/temperature.png" />
+    <file src="images/dayzicons/thirsty.png" />
+    <file src="images/dayzicons/medic.png" />
+    <file src="images/dayzicons/level_2.png" />
+    <file src="images/dayzicons/level_3.png" />
+    <file src="images/dayzicons/level_4.png" />
+    <file src="images/dayzicons/level_5.png" />
+    
+</meta>

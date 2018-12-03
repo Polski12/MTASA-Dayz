@@ -1,0 +1,33 @@
+<meta>
+	<info type="misc" name="http://www.mtasaplay.com.br " author="MLK+PIRA" description="" version="1.0" />
+
+	<file src="292.txd" />
+	<file src="292.dff" />
+	
+		<file src="293.txd" />
+	<file src="293.dff" />
+	
+		<file src="294.txd" />
+	<file src="294.dff" />
+	
+		<file src="295.txd" />
+	<file src="295.dff" />
+	
+		<file src="296.txd" />
+	<file src="296.dff" />
+	
+		<file src="297.txd" />
+	<file src="297.dff" />
+	
+		<file src="298.txd" />
+	<file src="298.dff" />
+	
+		<file src="299.txd" />
+	<file src="299.dff" />
+	
+
+	
+
+	<script type="client" src="replace.lua" />
+	<!-- generated with http://www.mtasaplay.com.br -->
+</meta>

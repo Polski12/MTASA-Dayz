@@ -1,0 +1,149 @@
+<meta>
+    <info type="misc" name="Car replacement for: Bobcat" author="Unknown" description="" version="1" />
+    <file src="auta/blistac.txd" />
+    <file src="auta/blistac.dff" />
+    <file src="auta/alpha.txd" />
+    <file src="auta/alpha.dff" />
+    <file src="auta/euros.txd" />
+    <file src="auta/euros.dff" />
+    <file src="auta/cheetah.txd" />
+    <file src="auta/cheetah.dff" />
+    <file src="auta/buffalo.txd" />
+    <file src="auta/buffalo.dff" />
+    <file src="auta/cadrona.txd" />
+    <file src="auta/cadrona.dff" />
+    <file src="auta/bullet.txd" />
+    <file src="auta/bullet.dff" />
+    <file src="models/weap/lee.txd" />
+    
+    <file src="models/weap/lee.dff" />
+      
+    <file src="models/weap/ak47.txd" />
+    
+    <file src="models/weap/ak47.dff" />
+    
+    <file src="models/weap/colt.txd" />
+        
+    <file src="models/weap/colt.dff" />
+    
+    <file src="models/weap/m4.txd" />
+    
+    <file src="models/weap/m4.dff" />
+    
+    <file src="models/weap/magnum.txd" />
+    
+    <file src="models/weap/magnum.dff" />
+    
+    <file src="models/weap/mp5.txd" />
+    
+    <file src="models/weap/mp5.dff" />
+    
+    <file src="models/weap/off.txd" />
+    
+    <file src="models/weap/off.dff" />
+        
+    <file src="models/weap/shotgun.txd" />
+    
+    <file src="models/weap/shotgun.dff" />
+    
+    <file src="models/weap/sniper.txd" />
+    
+    <file src="models/weap/sniper.dff" />
+    
+    <file src="models/weap/spaz.txd" />
+    
+    <file src="models/weap/spaz.dff" />
+    
+    <file src="models/weap/uzi.txd" />   
+    <file src="models/weap/uzi.dff" />
+    <file src="models/weap/silen.txd" />
+	
+	<file src="models/weap/katana.txd" />   
+    <file src="models/weap/katana.dff" />
+	
+	<file src="models/weap/baseball.txd" />   
+    <file src="models/weap/baseball.dff" />
+    
+    <file src="models/weap/silen.dff" />
+        <file src="przedmioty/tankparts.txd" />
+    <file src="przedmioty/tankparts.dff" />
+    <file src="przedmioty/bom.txd" />
+    <file src="przedmioty/bom.dff" />
+    <file src="przedmioty/Bandage.txd" />
+    <file src="przedmioty/Bandage.dff" />
+    <file src="przedmioty/esc.txd" />
+    <file src="przedmioty/esc.dff" />
+    <file src="przedmioty/morphine.txd" />
+    <file src="przedmioty/morphine.dff" />
+    <file src="przedmioty/tentz.txd" />
+    <file src="przedmioty/tentz.dff" />
+    <file src="przedmioty/map.txd" />
+    <file src="przedmioty/map.dff" />
+    <file src="przedmioty/GPS.txd" />
+    <file src="przedmioty/GPS.dff" />
+    <file src="przedmioty/woda.txd" />
+    <file src="przedmioty/woda.dff" />
+    <file src="przedmioty/watch.txd" />
+    <file src="przedmioty/watch.dff" />
+    <file src="przedmioty/rawmeat.txd" />
+    <file src="przedmioty/rawmeat.dff" />
+    <file src="przedmioty/blood.txd" />
+    <file src="przedmioty/blood.dff" />
+    <file src="przedmioty/hospitalbox.txd" />
+    <file src="przedmioty/hospitalbox.dff" />
+    <file src="przedmioty/painkiller.txd" />
+    <file src="przedmioty/painkiller.dff" />
+    <file src="przedmioty/hitpak.txd" />
+    <file src="przedmioty/hitpak.dff" />
+    <file src="przedmioty/fak.txd" />
+    <file src="przedmioty/fak.dff" />
+    <file src="przedmioty/flara.txd" />
+    <file src="przedmioty/flara.dff" />
+    <file src="przedmioty/soda_can.txd" />
+    <file src="przedmioty/soda_can.dff" />
+    <file src="przedmioty/beans_can.txd" />
+    <file src="przedmioty/beans_can.dff" />
+    <file src="przedmioty/pasta_can.txd" />
+    <file src="przedmioty/pasta_can.dff" />
+    <file src="przedmioty/kukmit.txd" />
+    <file src="przedmioty/kukmit.dff" />
+    <file src="przedmioty/tulboks.txd" />
+    <file src="przedmioty/tulboks.dff" />
+    <file src="przedmioty/drynwo.txd" />
+    <file src="przedmioty/drynwo.dff" />
+    <file src="przedmioty/kanister.txd" />
+    <file src="przedmioty/kanister.dff" />
+    <file src="przedmioty/silnik.txd" />
+    <file src="przedmioty/silnik.dff" />
+    <file src="przedmioty/drut.txd" />
+    <file src="przedmioty/drut.dff" />
+    <file src="przedmioty/kolo.txd" />
+    <file src="przedmioty/kolo.dff" />
+    <file src="przedmioty/pistol_ammo.txd" />
+    <file src="przedmioty/pistol_ammo.dff" />
+    <file src="przedmioty/shotgun_ammo.txd" />
+    <file src="przedmioty/shotgun_ammo.dff" />
+    <file src="przedmioty/smg_ammo.txd" />
+    <file src="przedmioty/smg_ammo.dff" />
+    <file src="przedmioty/sniper_ammo.txd" />
+    <file src="przedmioty/sniper_ammo.dff" />
+    <file src="przedmioty/assault_ammo.txd" />
+    <file src="przedmioty/assault_ammo.dff" />
+    <file src="przedmioty/luneta.txd" />
+    <file src="przedmioty/luneta.dff" />
+    <file src="przedmioty/backpack_small.txd" />
+    <file src="przedmioty/backpack_small.dff" />
+    <file src="przedmioty/backpack_alice.txd" />
+    <file src="przedmioty/backpack_alice.dff" />
+    <file src="przedmioty/backpack_coyote.txd" />
+    <file src="przedmioty/backpack_coyote.dff" />
+    <file src="przedmioty/backpack_czech.txd" />
+    <file src="przedmioty/backpack_czech.dff" />
+    <file src="przedmioty/backpack_marines.txd" />
+    <file src="przedmioty/backpack_marines.dff" />
+    <file src="przedmioty/backpack_military.txd" />
+    <file src="przedmioty/backpack_military.dff" />
+
+    <script type="client" src="replace.lua" />
+    <!-- generated with http://mta.dzek.eu/ -->
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+	<info author="CrosRoad95" version="1.0" name="" type="script"></info>
+	<script src="c.lua" type="client" cache="false"></script>
+	<file src="73.txd" cache="false"/>
+    <file src="73.dff" cache="false"/>
+</meta>

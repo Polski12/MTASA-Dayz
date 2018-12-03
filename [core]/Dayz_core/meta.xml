@@ -1,0 +1,19 @@
+<meta>
+	<info author="CrosRoad95" version="1.0" name="" type="script"></info>
+	<oop>true</oop>
+	<script src="s.lua" type="server"></script>
+	<script src="weapons_server.lua" type="server"></script>
+  
+	<script src="c.lua" type="client" cache="false"></script>
+	<script src="world_client.lua" type="client" cache="false"></script>
+	<script src="weapons_client.lua" type="client" cache="false"></script>
+  
+  <export function="animacja" type="server"/>
+  <export function="updateWeapons" type="server"/>
+  <export function="getCurrentSlotFromWeapon" type="server"/>
+  <export function="getPointFromDistanceRotation" type="server"/>
+  
+  <export function="centerWindow" type="client"/>
+  <export function="getElementSpeed" type="client"/>
+  <export function="getCurrentSlotFromWeapon" type="client"/>
+</meta>

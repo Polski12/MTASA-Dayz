@@ -1,0 +1,23 @@
+<meta>
+	<info author="CrosRoad95" version="1.0" name="" type="script"></info>
+  <oop>true</oop>
+	<script src="s.lua" type="server"></script>
+	<script src="c.lua" type="client" cache="false"></script>
+	<script src="interkacja.lua" type="client" cache="false"></script>
+    <file src="ikony/bandit.png" />
+    <file src="ikony/blood.png" />
+    <file src="ikony/brokenbone.png" />
+    <file src="ikony/eye.png" />
+    <file src="ikony/food.png" />
+    <file src="ikony/sound.png" />
+    <file src="ikony/temperature.png" />
+    <file src="ikony/thirsty.png" />
+    <file src="ikony/medic.png" />
+    <file src="ikony/level_20.png" />
+    <file src="ikony/level_40.png" />
+    <file src="ikony/level_60.png" />
+    <file src="ikony/level_80.png" />
+	<file src="ikony/debugtlo.png" />
+	<file src="ikony/kondycja.png" />
+	
+</meta>

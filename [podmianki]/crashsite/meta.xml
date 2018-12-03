@@ -1,0 +1,7 @@
+<meta>
+    <info type="misc" name="antybug" author="Sater" description="" version="1" />
+    <file src="meszek.col" />
+    <file src="hunter.txd" />
+    <file src="hunter.dff" />
+    <script type="client" src="podmianka.lua" />
+</meta>

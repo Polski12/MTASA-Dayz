@@ -1,0 +1,39 @@
+<meta>
+	<info author="CrosRoad95" version="1.0" name="" type="script"></info>
+	<oop>true</oop>
+	<script src="s.lua" type="server"></script>
+	<script src="c.lua" type="client" cache="false"></script>
+  <file src="skins/22.txd" />
+  <file src="skins/56.txd" />
+  <file src="skins/67.txd" />
+  <file src="skins/68.txd" />
+  <file src="skins/69.txd" />
+  <file src="skins/70.txd" />
+  <file src="skins/84.txd" />
+  <file src="skins/92.txd" />
+  <file src="skins/97.txd" />
+  <file src="skins/105.txd" />
+  <file src="skins/107.txd" />
+  <file src="skins/108.txd" />
+  <file src="skins/111.txd" />
+  <file src="skins/126.txd" />
+  <file src="skins/127.txd" />
+  <file src="skins/128.txd" />
+  <file src="skins/152.txd" />
+  <file src="skins/162.txd" />
+  <file src="skins/167.txd" />
+  <file src="skins/188.txd" />
+  <file src="skins/192.txd" />
+  <file src="skins/195.txd" />
+  <file src="skins/206.txd" />
+  <file src="skins/209.txd" />
+  <file src="skins/212.txd" />
+  <file src="skins/229.txd" />
+  <file src="skins/230.txd" />
+  <file src="skins/258.txd" />
+  <file src="skins/264.txd" />
+  <file src="skins/274.txd" />
+  <file src="skins/277.txd" />
+  <file src="skins/280.txd" />
+  <file src="skins/287.txd" />
+</meta>

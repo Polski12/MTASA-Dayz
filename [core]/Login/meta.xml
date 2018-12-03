@@ -1,0 +1,22 @@
+<meta>
+    <info author="CrosRoad95" name="Login" type="script" version="1.0" />
+    <oop>true</oop>
+    <script src="login_server.lua" type="server"/>
+    <script src="login_client.lua" type="client"/>
+    
+    <file src="images/background_1.png"/>
+    <file src="images/tab.png"/>
+    <file src="images/box_background.png"/>
+    <file src="images/button_mouse.png"/>
+    <file src="images/button_standard.png"/>
+    <file src="images/construction.png"/>
+    <file src="images/login_icon.png"/>
+    <file src="images/on.png"/>
+    <file src="images/signup_icon.png"/>
+    <file src="images/new.png"/>
+    <file src="images/news.png"/>
+    <file src="font.ttf"/>
+    <file src="font2.ttf"/>
+    <file src="font3.ttf"/>
+    <file src="button.mp3"/>
+</meta>
